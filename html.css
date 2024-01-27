@@ -1,0 +1,87 @@
+cite {
+    position: relative;
+    left: 310px;;
+    bottom: 25px
+    
+}
+
+h1 {
+    font-size: 40px;
+    position:relative;
+    top: 30;
+    left:20;
+}
+
+html {
+     background-color:whitesmoke;
+}
+h2 {
+    font-size:30px;
+    position: relative;
+    top: 10px;
+}
+article {
+    background-color: white;
+    width: 800px;
+    position: relative;
+    left: 180px;
+    bottom: 316px;;
+}
+
+nav{
+    background-color:rgb(0, 174, 255);
+    height:35px;
+    width: 1500px;
+    font-size:30px;
+    color:whitesmoke;
+    padding-top:40px;
+    position: relative;
+    
+    left: 180px;
+    top: 20px;
+    }
+a{
+   color: white;
+   text-decoration: none; 
+}
+hr {
+    position:relative ;
+    bottom:25px;
+}
+
+div  {
+    background-color: rgba(255, 115, 0, 0.89);
+    width:500;
+    position: relative;
+    left:1180px;
+    bottom:580px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+aside {
+    background-color: white;
+    width:800px;
+    position: relative;
+    left: 180px;
+    top:320px;
+}
+h4 { 
+    font-size:30px;
+    position: relative;
+    top:20px;
+}
+footer {
+    width: 1500px;
+    font-size: 20px;
+    background-color: black;
+    color:white;
+    position:relative ;
+    top: 320px;
+    height:60 ;
+    right:1000px;
+    text-align: center;
+    padding-top:1px;
+}
